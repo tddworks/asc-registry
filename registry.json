@@ -3,7 +3,7 @@
     {
       "id": "asc-pro",
       "name": "ASC Pro",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Simulator streaming, interaction & tunnel sharing",
       "author": "tddworks",
       "repositoryURL": "https://github.com/tddworks/asc-registry",
